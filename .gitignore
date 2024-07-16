@@ -1,0 +1,5 @@
+completions/bun.fish
+completions/edgedb.fish
+completions/fisher.fish
+functions/no.fish
+fish_variables
