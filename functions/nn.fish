@@ -1,6 +1,6 @@
 function nn --description "gp :: open nvim config"
-  cd ~/.config/nvim
+  pushd ~/.config/nvim
   nvim ./README.md
-  cd -
+  popd
 end
 
